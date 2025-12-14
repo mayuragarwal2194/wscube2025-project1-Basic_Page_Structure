@@ -8,6 +8,9 @@ The page demonstrates how different sections of a website (header, navigation, s
 
 ---
 
+## Preview
+![Project Preview](preview.png)
+
 ## 🧱 Page Structure
 
 The layout includes the following sections:
